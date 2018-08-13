@@ -4,7 +4,7 @@
   <project name="kicad_footprints" path="custom_footprint.pretty"/>
   <project name="kicad_libraries" path="libraries"/>
   <project name="engine_management_system" path="ems"/>
-  <project name="fuel_capacity_sender" />
+  <project name="fuel_capacity_sensor" />
   <project name="speedometer_hardware" path="motorcycle_hardware"/>
   <project name="rv_9_schematic" />
   <project name="rv_trim_relay" />
