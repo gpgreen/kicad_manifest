@@ -1,5 +1,5 @@
 <manifest>
-  <remote name="github" fetch="ssh://git@github.com:gpgreen/"/>
+  <remote name="github" fetch="git@github.com:gpgreen/"/>
   <default revision="refs/heads/master" remote="github" sync-j="4"/>
   <project name="kicad_footprints.git" remote="github" path="custom_footprint.pretty"/>
   <project name="kicad_libraries.git" remote="github"  path="libraries"/>
