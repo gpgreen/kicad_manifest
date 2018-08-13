@@ -1,0 +1,11 @@
+<manifest>
+  <remote name="github" fetch="git@github.com:gpgreen/"/>
+  <default revision="refs/heads/master" remote="github" sync-j="4"/>
+  <project name="kicad_footprints.git" remote="github" path="custom_footprint.pretty"/>
+  <project name="kicad_libraries.git" remote="github"  path="libraries"/>
+  <project name="engine_management_system.git" remote="github" path="ems"/>
+  <project name="fuel_capacity_sender.git" remote="github" path="fuel_capacity_sender"/>
+  <project name="speedometer_hardware.git" remote="github" path="motorcycle_hardware"/>
+  <project name="rv_9_schematic.git" remote="github" path="rv_9_schematic"/>
+  <project name="rv_trim_relay.git" remote="github" path="rv_trim_relay"/>
+</manifest>
