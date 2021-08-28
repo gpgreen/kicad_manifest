@@ -8,5 +8,7 @@
   <project name="speedometer_hardware" path="motorcycle_hardware"/>
   <project name="rv_9_schematic" />
   <project name="rv_trim_relay" />
-  <project name="pixel_qi_button_boards" />
+  <project name="chart_plotter_hat" revision="refs/heads/main" />
+  <project name="zephyr_schematic" revision="refs/heads/main"/>
+  <project name="pypilot_controller" revision="refs/heads/main"/>
 </manifest>
