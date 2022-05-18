@@ -11,4 +11,5 @@
   <project name="chart_plotter_hat" revision="refs/heads/main" />
   <project name="zephyr_schematic" revision="refs/heads/main"/>
   <project name="pypilot_controller" revision="refs/heads/main"/>
+  <project name="led-dimmer-boat" revision="refs/heads/main"/>
 </manifest>
